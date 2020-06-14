@@ -2,6 +2,13 @@ This website is a project site for the Gymnasium Modern Web Design Course. It wi
 
 ## What is the Black Lives Matter (BLM) Movement?
 
+The BLM Movement is an international human rights movement that campaigns against violence and systemic racism towards black people. The BLM organization as we know it today, was officially founded in 2013 by three black activists: Alicia Garza, Patrisse Cullors, and Opal Tometi. They did so in response to George Zimmerman being cleared of all charges in relation to the murder of Trayvon Martin. 
+
+Trayvon Martin was a 17 year old black male from Florida. He was walking back from a convieniance store to a family members home when George Zimmerman, a community watch member, fatally shot Treyvon in the chest. Initially, Zimmerman was not arrested due to Florida's <a href="https://en.wikipedia.org/wiki/Stand-your-ground_law">Stand Your Ground law</a>, a law that gives each person a right to defend themselves and others against threats or perceived threats. This includes applying lethal force even if the situation could have been de-escalated by safely retreating. Only after media coverage of the case spread news far and wide, which led to protests and the first uses of the hashtag #BlackLivesMatter, did the police arrest Zimmerman. Unfortunately, the jurry found him innocent.
+
+Although the BLM organization was founded in 2013, it's roots have been traced back to 
+
+
 You can use the [editor on GitHub](https://github.com/mgray95/BLMmovement/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
