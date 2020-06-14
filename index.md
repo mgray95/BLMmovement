@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+This website is a project site for the Gymnasium Modern Web Design Course. It will explore the BLM movement; how and why it began, turning points, and what role it has in today's society. 
+
+## What is the Black Lives Matter (BLM) Movement?
 
 You can use the [editor on GitHub](https://github.com/mgray95/BLMmovement/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
