@@ -9,6 +9,19 @@ Trayvon Martin was a 17 year old black male from Florida. He was walking back fr
 Although the BLM organization was founded in 2013, it has roots in many movements related to black freedom. This includes the Civil Rights movement (50s), Black Power movement (60s), and the Black Feminist movement (80s).
 
 
+## BLM Impact/ Success
+
+## Counter-slogans and Movements
+
+### All Lives Matter
+
+### White Lives Matter
+
+### Blue Lives Matter
+
+## Movement Criticism
+
+
 You can use the [editor on GitHub](https://github.com/mgray95/BLMmovement/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
