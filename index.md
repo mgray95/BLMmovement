@@ -20,7 +20,7 @@ What is the Black Lives Matter (BLM) Movement?
 
 <h3>All Lives Matter</h3>
 
-<h3?White Lives Matter</h3>
+<h3>White Lives Matter</h3>
 
 <h3>Blue Lives Matter</h3>
 
