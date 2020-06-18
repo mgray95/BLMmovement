@@ -18,7 +18,11 @@ What is the Black Lives Matter (BLM) Movement?
 
 <h2> Counter-slogans and Movements </h2>
 
-<h3>All Lives Matter</h3>
+<h3>
+  <a href="https://mgray95.github.io/BLMmovement/ALM.md">
+  All Lives Matter
+  </a>  
+</h3>
 
 <h3>White Lives Matter</h3>
 
