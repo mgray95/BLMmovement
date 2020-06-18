@@ -24,9 +24,11 @@ What is the Black Lives Matter (BLM) Movement?
   </a>  
 </h3>
 
-<h3>White Lives Matter</h3>
-
-<h3>Blue Lives Matter</h3>
+<h3>
+  <a href="https://mgray95.github.io/blueLMmovement/ALM.md">
+  Blue Lives Matter
+  </a>  
+</h3>
 
 <h3>Movement Criticism</h3>
 
