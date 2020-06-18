@@ -6,7 +6,7 @@
 What is the Black Lives Matter (BLM) Movement?
 </h1>
 
-<p>The BLM Movement is an international human rights movement that campaigns against violence and systemic racism towards black people. The BLM organization, as we know it today, was officially <a href="https://blacklivesmatter.com/about/">founded in 2013 </a> by three black activists: Alicia Garza, Patrisse Cullors, and Opal Tometi. They did so in response to George Zimmerman being cleared of all charges in relation to the murder of Trayvon Martin. </p>
+<p>The BLM Movement is an international human rights movement that campaigns against violence and systemic racism towards black people. The BLM organization, as we know it today, was officially <a href="https://blacklivesmatter.com/about/">founded in 2013 </a> by three black activists: Alicia Garza, Patrisse Cullors, and Opal Tometi. They did so in response to George Zimmerman being cleared of all charges in relation to the murder of Trayvon Martin. </p> <hr>
 
 <p>Although the BLM organization was founded in 2013, it has roots in many historical movements related to black freedom. This includes the Civil Rights movement (50s), Black Power movement (60s), and the Black Feminist movement (80s).</p>
 
