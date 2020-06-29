@@ -2,7 +2,7 @@
   <header>This website is a project site for the Gymnasium Modern Web Design Course. It will explore the BLM movement; how and why it began, turning points, and what role it has in today's society. </header>
 </main>
 <br>
-<h1>
+<h1 style="text-align: center";>
 What is the Black Lives Matter (BLM) Movement?
 </h1>
 
