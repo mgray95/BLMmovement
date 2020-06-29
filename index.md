@@ -11,7 +11,7 @@ What is the Black Lives Matter (BLM) Movement?
 <table>
   <tr>
     <td> <img src="BLM-yellow.webp" alt="A yellow Black Lives Matter sign"> </td>
-    <td> <img src="BLM-fist" alt="A black fist with BLM text"> </td>
+    <td> <img src="BLM-fist.jpg" alt="A black fist with BLM text"> </td>
   </tr>
 </table>
 
@@ -21,16 +21,26 @@ What is the Black Lives Matter (BLM) Movement?
 <details>
   <summary> Who is Trayvon Martin?</summary>
     <p>Trayvon Martin was a 17 year old black male from Florida. He was walking back from a convieniance store to a family members home when George Zimmerman, a community watch member, fatally shot Treyvon in the chest. Initially, Zimmerman was not arrested due to Florida's <a href="https://en.wikipedia.org/wiki/Stand-your-ground_law">Stand Your Ground law</a>, a law that gives each person a right to defend themselves and others against threats or perceived threats. This includes applying lethal force even if the situation could have been de-escalated by safely retreating. Only after media coverage of the case spread news far and wide, which led to protests and the first uses of the hashtag #BlackLivesMatter, did the police arrest Zimmerman. Unfortunately, the jurry found him innocent.</p>
-  <summary> BLM Impact/ Success</summary>
+</details>
+<details>
+<summary> BLM Impact/ Success</summary>
    <p>description</p>
+</details>
+<details>
   <summary>Counter-slogans and Movements</summary>
    <p>description</p>
+</details>
+<details>
   <summary><a href="https://mgray95.github.io/BLMmovement/ALM.md">
   All Lives Matter</a><summary>
     <p>description</p>
+</details>
+<details>
    <summary> <a href="https://mgray95.github.io/blueLMmovement/ALM.md">
      Blue Lives Matter</a></summary>
     <p>description</p>
+</details>
+<details>
     <summary>Movement Criticism</summary>
     <p>description</p>
 </details>
