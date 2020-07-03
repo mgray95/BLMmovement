@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <main>
-   <title>
-    This website is a project site for the Gymnasium Modern Web Design Course. It will explore the BLM movement; how and why it began, turning points, and what role it has in today's society. 
-    </title>
-     <link type="text/css" rel="stylesheet" href="styles.css">
-  </main>
+  <head>
+  <title>This website is a project site for the Gymnasium Modern Web Design Course. It will explore the BLM movement; how and why it began, turning points, and what role it has in today's society.</title>
+  <link rel="stylesheet" href="styles.css">
+  </head>
 
 <br>
 <h1>
