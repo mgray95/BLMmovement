@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <main>
-   <header>
+   <title>
      <link type="text/css" rel="stylesheet" href="https://github.com/mgray95/BLMmovement/styles.css">
      This website is a project site for the Gymnasium Modern Web Design Course. It will explore the BLM movement; how and why it began, turning points, and what role it has in today's society. 
-    </header>
+    </title>
   </main>
 
 <br>
